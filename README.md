@@ -20,3 +20,8 @@ Este es un juego sencillo desarrollado en Python utilizando PyGame. El objetivo 
 
    ```consola
    pip install pygame
+Nota: Asegurarse de descargar las imágenes para: 
+--- galaxia.JPG
+--- nave.png
+--- marciano.png
+Tal cual los nombres y las extensiones en la ruta correcta, es decir, junto con el archivo main del proyecto.
